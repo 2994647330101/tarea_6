@@ -1,0 +1,12 @@
+C:\Users\Inspiron15\source\repos\programa_5_lab\bin\Debug\programa_5_lab.exe.config
+C:\Users\Inspiron15\source\repos\programa_5_lab\bin\Debug\programa_5_lab.exe
+C:\Users\Inspiron15\source\repos\programa_5_lab\bin\Debug\programa_5_lab.pdb
+C:\Users\Inspiron15\source\repos\programa_5_lab\bin\Debug\programa_5_lab.xml
+C:\Users\Inspiron15\source\repos\programa_5_lab\obj\Debug\programa_5_lab.vbprojAssemblyReference.cache
+C:\Users\Inspiron15\source\repos\programa_5_lab\obj\Debug\programa_5_lab.Form1.resources
+C:\Users\Inspiron15\source\repos\programa_5_lab\obj\Debug\programa_5_lab.Resources.resources
+C:\Users\Inspiron15\source\repos\programa_5_lab\obj\Debug\programa_5_lab.vbproj.GenerateResource.cache
+C:\Users\Inspiron15\source\repos\programa_5_lab\obj\Debug\programa_5_lab.vbproj.CoreCompileInputs.cache
+C:\Users\Inspiron15\source\repos\programa_5_lab\obj\Debug\programa_5_lab.exe
+C:\Users\Inspiron15\source\repos\programa_5_lab\obj\Debug\programa_5_lab.xml
+C:\Users\Inspiron15\source\repos\programa_5_lab\obj\Debug\programa_5_lab.pdb
